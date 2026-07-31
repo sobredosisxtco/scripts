@@ -8,7 +8,7 @@ ___________              .__  _____
                \//_____/           \/     
                
                @A_Raidi | sobre2is
-               Don't deobfuscate
+               Don't deobfuscate plz
               
 ]]
 
