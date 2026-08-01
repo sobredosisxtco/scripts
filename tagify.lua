@@ -12,7 +12,7 @@ ___________              .__  _____
               
 ]]
 
--- i dont get why would you want to crack ts 😂
+--i dont get why would you want to crack ts 😂
 
 local _ = string
 local a = {0x68,0x74,0x74,0x70,0x73,0x3a,0x2f,0x2f}
