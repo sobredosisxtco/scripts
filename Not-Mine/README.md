@@ -1,0 +1,1 @@
+These scripts are NOT mine. They are NOT uploaded nor made by me. NOT MINE !!!!
