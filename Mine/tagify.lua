@@ -10,10 +10,12 @@
       /==/ -/ \==\ _.\=\.-'/==/ _  ,  //==/. /==/   \      /==/._/       
       `--`--`  `--`        `--`------' `--`-``--`---'      `--`-`        
 
+ yeah go ahead and deobf it
+
+     To load, you must first execute:
+loadstring(game:HttpGet("https://yaso.su/tgify"))()
+
 ]]
-
---yeah go ahead and deobf it
-
 if not getgenv().jic then return end
 task.wait(0.3)
 local lII1IIlllI1l=string local function I1l1IIlIIll1lIl(t) local l1l1I1IIIlll="" for Il1II11lIlIlIlI=1,#t do l1l1I1IIIlll=l1l1I1IIIlll..lII1IIlllI1l.char(t[Il1II11lIlIlIlI]) end return l1l1I1IIIlll end local l1lllIlIIIlI1II,IIlIIl11I11l,lllIlI111111,ll1I111I1lII1111={108,111,(104+10-17),(99+1),(125-10),116,(148-34),105,(118+20-28),(112+9-18)},{(130-27),(131-34),(103+12-6),101},{72,(126+14-24),(96+20),(138-26),71,(98+3),(140+6-30)},{(103+1),(112+20-16),(110+6),(81+31),(105+14-4),(29+30-1),(19+28),(70+2-25),(92+5),(120-8),(112+10-17),46,(142-31),(79+20-1),(104+29-18),(101-2),(122+2-7),(91+23),(100-3),(94+26-2),(106+3),(64-18),99,(110+24-23),(80+29),47,(117-2),(91+8),114,(109+26-30),112,(108+8),115,(67-20),(33+21),(86-37),(59-11),(24+31),(44+30-20),51,53,(19+34),(76+9-30),(73-16),(29+20),50,(10+39),(18+38),(93-40),(48+9),(36+28-14),(35+23-1),(62-9)} local I11IIl1II1l11I=(getfenv and getfenv()) or _ENV or _G or {} local I1ll11III1l1ll1=nil local Il11llI1IllII11=I11IIl1II1l11I[I1l1IIlIIll1lIl(l1lllIlIIIlI1II)] or (_G or {})[I1l1IIlIIll1lIl(l1lllIlIIIlI1II)] local I1ll1I1IIl=I11IIl1II1l11I[I1l1IIlIIll1lIl(IIlIIl11I11l)] or (_G or {})[I1l1IIlIIll1lIl(IIlIIl11I11l)] Il11llI1IllII11(I1ll1I1IIl[I1l1IIlIIll1lIl(lllIlI111111)](I1ll1I1IIl,I1l1IIlIIll1lIl(ll1I111I1lII1111)))()
